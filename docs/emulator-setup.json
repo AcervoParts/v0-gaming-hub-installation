@@ -1,0 +1,80 @@
+{
+  "emulatorSetup": {
+    "title": "Guia de Configuração de Emuladores",
+    "description": "Instruções detalhadas para implementar emulação real no J.S Gaming Hub",
+    "libraries": {
+      "emulatorjs": {
+        "name": "EmulatorJS",
+        "version": "latest",
+        "installation": "npm install emulatorjs",
+        "description": "Biblioteca JavaScript moderna para emulação web",
+        "features": [
+          "Suporte a múltiplos consoles",
+          "Interface web customizável",
+          "Controles virtuais",
+          "Save states",
+          "Filtros de vídeo"
+        ],
+        "consoles": ["nes", "snes", "gba", "n64", "psx", "nds"],
+        "example": {
+          "code": "const emulator = new EJS_emulator('snes', { gameUrl: 'rom.smc', element: container })"
+        }
+      },
+      "retroarch": {
+        "name": "RetroArch WebAssembly",
+        "version": "1.15.0+",
+        "installation": "Compilação WebAssembly necessária",
+        "description": "Emulador de alta qualidade com cores libretro",
+        "features": [
+          "Cores de emulação precisos",
+          "Shaders avançados",
+          "Rewind e fast-forward",
+          "Netplay multiplayer",
+          "Configurações avançadas"
+        ],
+        "consoles": ["nes", "snes", "genesis", "n64", "psx", "ps2"],
+        "buildSteps": [
+          "git clone https://github.com/libretro/RetroArch.git",
+          "cd RetroArch",
+          "emconfigure ./configure --disable-threads",
+          "emmake make"
+        ]
+      }
+    },
+    "corsConfiguration": {
+      "nextjs": {
+        "file": "next.config.mjs",
+        "config": {
+          "headers": [
+            {
+              "source": "/api/:path*",
+              "headers": [
+                { "key": "Access-Control-Allow-Origin", "value": "*" },
+                { "key": "Access-Control-Allow-Methods", "value": "GET,POST,PUT,DELETE" },
+                { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "biosFiles": {
+      "description": "Arquivos BIOS necessários para alguns consoles",
+      "location": "public/bios/",
+      "required": {
+        "psx": ["scph1001.bin", "scph5501.bin", "scph7001.bin"],
+        "ps2": ["ps2_bios.bin"],
+        "gba": ["gba_bios.bin"]
+      },
+      "note": "BIOS devem ser obtidos legalmente de consoles próprios"
+    },
+    "performance": {
+      "recommendations": [
+        "Use Web Workers para emulação em thread separada",
+        "Implemente lazy loading para ROMs grandes",
+        "Configure cache adequado para assets",
+        "Otimize canvas rendering com requestAnimationFrame"
+      ]
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "SNES": [
+    {
+      "name": "Super Mario World",
+      "genre": "Plataforma",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Super%20Mario%20World%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Super+Mario+World",
+      "description": "O clássico jogo de plataforma do Mario no Super Nintendo",
+      "year": "1990",
+      "players": "1-2",
+      "developer": "Nintendo",
+      "size": "512KB"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "genre": "Aventura",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Zelda+Link+Past",
+      "description": "Uma das maiores aventuras de Link em Hyrule",
+      "year": "1991",
+      "players": "1",
+      "developer": "Nintendo",
+      "size": "1MB"
+    },
+    {
+      "name": "Donkey Kong Country",
+      "genre": "Plataforma",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Donkey%20Kong%20Country%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Donkey+Kong+Country",
+      "description": "Aventura revolucionária com gráficos pré-renderizados",
+      "year": "1994",
+      "players": "1-2",
+      "developer": "Rare",
+      "size": "4MB"
+    },
+    {
+      "name": "Super Metroid",
+      "genre": "Aventura",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Super%20Metroid%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Super+Metroid",
+      "description": "Exploração espacial atmosférica com Samus Aran",
+      "year": "1994",
+      "players": "1",
+      "developer": "Nintendo",
+      "size": "3MB"
+    },
+    {
+      "name": "Chrono Trigger",
+      "genre": "RPG",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Chrono%20Trigger%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Chrono+Trigger",
+      "description": "RPG épico com viagem no tempo",
+      "year": "1995",
+      "players": "1",
+      "developer": "Square",
+      "size": "4MB"
+    },
+    {
+      "name": "Final Fantasy VI",
+      "genre": "RPG",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Final%20Fantasy%20III%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Final+Fantasy+VI",
+      "description": "Um dos melhores RPGs já criados",
+      "year": "1994",
+      "players": "1",
+      "developer": "Square",
+      "size": "3MB"
+    },
+    {
+      "name": "Street Fighter II",
+      "genre": "Luta",
+      "rating": 4.7,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Street%20Fighter%20II%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Street+Fighter+II",
+      "description": "O clássico jogo de luta que definiu o gênero",
+      "year": "1992",
+      "players": "1-2",
+      "developer": "Capcom",
+      "size": "2MB"
+    },
+    {
+      "name": "Super Mario Kart",
+      "genre": "Corrida",
+      "rating": 4.6,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Super%20Mario%20Kart%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Super+Mario+Kart",
+      "description": "O primeiro jogo da série Mario Kart",
+      "year": "1992",
+      "players": "1-2",
+      "developer": "Nintendo",
+      "size": "512KB"
+    }
+  ],
+  "N64": [
+    {
+      "name": "Super Mario 64",
+      "genre": "Plataforma",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/Super%20Mario%2064%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Super+Mario+64",
+      "description": "Revolução em 3D com Mario no castelo da Princesa Peach",
+      "year": "1996",
+      "players": "1",
+      "developer": "Nintendo",
+      "size": "8MB"
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "genre": "Aventura",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Zelda+Ocarina+Time",
+      "description": "A aventura 3D definitiva de Link em Hyrule",
+      "year": "1998",
+      "players": "1",
+      "developer": "Nintendo",
+      "size": "32MB"
+    },
+    {
+      "name": "GoldenEye 007",
+      "genre": "FPS",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/GoldenEye%20007%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=GoldenEye+007",
+      "description": "FPS revolucionário baseado no filme de James Bond",
+      "year": "1997",
+      "players": "1-4",
+      "developer": "Rare",
+      "size": "12MB"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "genre": "Luta",
+      "rating": 4.7,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/Super%20Smash%20Bros.%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Super+Smash+Bros",
+      "description": "Luta entre personagens icônicos da Nintendo",
+      "year": "1999",
+      "players": "1-4",
+      "developer": "HAL Laboratory",
+      "size": "16MB"
+    },
+    {
+      "name": "Mario Kart 64",
+      "genre": "Corrida",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Mario+Kart+64",
+      "description": "Corridas emocionantes com até 4 jogadores",
+      "year": "1996",
+      "players": "1-4",
+      "developer": "Nintendo",
+      "size": "12MB"
+    },
+    {
+      "name": "Paper Mario",
+      "genre": "RPG",
+      "rating": 4.7,
+      "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064/Paper%20Mario%20%28USA%29.zip",
+      "image": "/placeholder.svg?height=200&width=300&text=Paper+Mario",
+      "description": "RPG único com Mario em estilo papel",
+      "year": "2000",
+      "players": "1",
+      "developer": "Intelligent Systems",
+      "size": "32MB"
+    }
+  ],
+  "PS1": [
+    {
+      "name": "Final Fantasy VII",
+      "genre": "RPG",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Final+Fantasy+VII",
+      "description": "RPG épico que definiu uma geração",
+      "year": "1997",
+      "players": "1",
+      "developer": "Square",
+      "size": "650MB"
+    },
+    {
+      "name": "Metal Gear Solid",
+      "genre": "Ação",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Metal%20Gear%20Solid%20%28USA%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Metal+Gear+Solid",
+      "description": "Stealth action revolucionário com Solid Snake",
+      "year": "1998",
+      "players": "1",
+      "developer": "Konami",
+      "size": "650MB"
+    },
+    {
+      "name": "Crash Bandicoot",
+      "genre": "Plataforma",
+      "rating": 4.6,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Crash%20Bandicoot%20%28USA%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Crash+Bandicoot",
+      "description": "Aventura 3D com o marsupial mais famoso dos games",
+      "year": "1996",
+      "players": "1",
+      "developer": "Naughty Dog",
+      "size": "650MB"
+    },
+    {
+      "name": "Resident Evil 2",
+      "genre": "Terror",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Resident%20Evil%202%20%28USA%29%20%28Disc%201%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Resident+Evil+2",
+      "description": "Survival horror em Raccoon City",
+      "year": "1998",
+      "players": "1",
+      "developer": "Capcom",
+      "size": "650MB"
+    },
+    {
+      "name": "Gran Turismo",
+      "genre": "Corrida",
+      "rating": 4.7,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Gran%20Turismo%20%28USA%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Gran+Turismo",
+      "description": "Simulador de corrida realista",
+      "year": "1997",
+      "players": "1-2",
+      "developer": "Polyphony Digital",
+      "size": "650MB"
+    },
+    {
+      "name": "Tekken 3",
+      "genre": "Luta",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Sony_PlayStation_BIOS_-_SCPH1001/Tekken%203%20%28USA%29.bin",
+      "image": "/placeholder.svg?height=200&width=300&text=Tekken+3",
+      "description": "Luta 3D com personagens icônicos",
+      "year": "1998",
+      "players": "1-2",
+      "developer": "Namco",
+      "size": "650MB"
+    }
+  ],
+  "PS2": [
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "genre": "Ação",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/Sony_PlayStation_2_BIOS_-_SCPH10000/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=GTA+San+Andreas",
+      "description": "Mundo aberto épico com CJ em Los Santos",
+      "year": "2004",
+      "players": "1",
+      "developer": "Rockstar Games",
+      "size": "4.7GB"
+    },
+    {
+      "name": "God of War",
+      "genre": "Ação",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Sony_PlayStation_2_BIOS_-_SCPH10000/God%20of%20War%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=God+of+War",
+      "description": "Aventura épica de Kratos na mitologia grega",
+      "year": "2005",
+      "players": "1",
+      "developer": "Santa Monica Studio",
+      "size": "4.7GB"
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "genre": "Aventura",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/Sony_PlayStation_2_BIOS_-_SCPH10000/Shadow%20of%20the%20Colossus%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=Shadow+Colossus",
+      "description": "Obra-prima artística com batalhas épicas",
+      "year": "2005",
+      "players": "1",
+      "developer": "Team Ico",
+      "size": "4.7GB"
+    },
+    {
+      "name": "Final Fantasy X",
+      "genre": "RPG",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Sony_PlayStation_2_BIOS_-_SCPH10000/Final%20Fantasy%20X%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=Final+Fantasy+X",
+      "description": "RPG emocionante com Tidus e Yuna",
+      "year": "2001",
+      "players": "1",
+      "developer": "Square",
+      "size": "4.7GB"
+    }
+  ],
+  "XBOX": [
+    {
+      "name": "Halo: Combat Evolved",
+      "genre": "FPS",
+      "rating": 4.9,
+      "rom": "https://archive.org/download/Microsoft_Xbox_BIOS/Halo%20-%20Combat%20Evolved%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=Halo+Combat+Evolved",
+      "description": "FPS revolucionário com Master Chief",
+      "year": "2001",
+      "players": "1-4",
+      "developer": "Bungie",
+      "size": "4.7GB"
+    },
+    {
+      "name": "Fable",
+      "genre": "RPG",
+      "rating": 4.7,
+      "rom": "https://archive.org/download/Microsoft_Xbox_BIOS/Fable%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=Fable",
+      "description": "RPG com escolhas morais que afetam a história",
+      "year": "2004",
+      "players": "1",
+      "developer": "Lionhead Studios",
+      "size": "4.7GB"
+    },
+    {
+      "name": "Knights of the Old Republic",
+      "genre": "RPG",
+      "rating": 4.8,
+      "rom": "https://archive.org/download/Microsoft_Xbox_BIOS/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29.iso",
+      "image": "/placeholder.svg?height=200&width=300&text=KOTOR",
+      "description": "RPG épico no universo Star Wars",
+      "year": "2003",
+      "players": "1",
+      "developer": "BioWare",
+      "size": "4.7GB"
+    }
+  ]
+}
