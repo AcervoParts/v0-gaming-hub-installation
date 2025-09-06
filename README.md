@@ -159,7 +159,8 @@ chmod +x scripts/install.sh && ./scripts/install.sh
 ### Desenvolvimento Local
 \`\`\`bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/js-retrogames.git
+git clone https://github.com/AcervoParts/v0-gaming-hub-installation.git
+cd v0-gaming-hub-installation
 
 # Entre no diretório
 cd js-retrogames
